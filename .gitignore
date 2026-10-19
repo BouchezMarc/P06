@@ -1,0 +1,27 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv/
+.venv-1/
+.venv-2/
+
+# Local data and generated datasets
+data/
+
+# Editor settings
+.vscode/
+
+# Secrets and local environment files
+.env
+.env.*
+!.env.example
+
+
+# Jupyter temporary files
+.ipynb_checkpoints/
