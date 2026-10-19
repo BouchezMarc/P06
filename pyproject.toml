@@ -9,7 +9,7 @@ dependencies = [
     "ipykernel>=7.2.0",
     "lightgbm>=4.6.0",
     "missingno>=0.5.2",
-    "mlflow==3.10.1",
+    "mlflow==3.16.0",
     "optuna>=4.7.0",
     "pandas==2.3.3",
     "pyarrow>=22.0.0,<24",
